@@ -1,4 +1,3 @@
-
 {
   "showDialog": true,
   "latestVersionCode": 2,
@@ -6,5 +5,11 @@
   "title": "RIYAN 444? MOD MANU UPDATE AVAILABLE",
   "message": " NEW PANEL UPDATED .",
   "UpdateButtonText": "DOWNLOAD",
-  "UpdateButtonUrl": "https://t.me/+XdSd6xq31iQwZDBl"
+  "UpdateButtonUrl": "https://t.me/+XdSd6xq31iQwZDBl",
+  
+  "expirySettings": {
+    "timezone": "IST", 
+    "expiryHumanReadable": "20 Nov 2025, 11:59 PM IST", 
+    "expiryTimestamp": 1763759340 
+  }
 }
